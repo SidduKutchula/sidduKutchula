@@ -1,27 +1,35 @@
-<!-- Optional Realistic Background -->
+<!-- Animated Banner -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/81398968/160081486-30f768cc-58bb-464a-98d6-3794bd6f4b8a.gif" width="100%" />
 </p>
 
-<h2 align="center"><strong><i>🚀 ASPIRING SOFTWARE DEVELOPER</i></strong></h2>
+<!-- Gradient Heading -->
+<h1 align="center" style="font-size: 2.5rem; font-family: 'Segoe UI', sans-serif; color: #ff6f61;">
+  🚀 Aspiring Software Developer
+</h1>
 
-<p align="center">
-  <b><i>🌐 Passionate About Full-Stack Development, DSA & Real-World Projects</i></b>
+<p align="center" style="font-size: 1.1rem; font-weight: bold; color: #4fc3f7;">
+  🌐 Passionate About Full-Stack Development, DSA & Real-World Projects
 </p>
 
 ---
 
-## 🧠 _ABOUT ME_
+<h2 style="color: #4CAF50;">🧠 About Me</h2>
 
-I’m a motivated learner with hands-on experience in building dynamic web applications using **Django**, **React**, and **PostgreSQL**.  
-I enjoy solving real-world problems through **clean code**, **responsive design**, and **structured development**.  
-Currently sharpening my skills in _Data Structures & Algorithms (DSA)_ to prepare for **top tech opportunities**.
+<p>
+  I'm a <b>motivated learner</b> with hands-on experience in building dynamic web applications using 
+  <span style="color: #61dafb;"><b>Django</b></span>, 
+  <span style="color: #61dafb;"><b>React</b></span>, and 
+  <span style="color: #336791;"><b>PostgreSQL</b></span>.<br/>
+  I enjoy solving real-world problems through clean code, responsive design, and structured development.<br/>
+  Currently sharpening my skills in <b>Data Structures & Algorithms (DSA)</b> to prepare for top tech opportunities.
+</p>
 
 ---
 
-## 🔧 _SKILLS_
+<h2 style="color: #FF9800;">🔧 Skills</h2>
 
-### 💻 **Frontend**
+<h3>💻 Frontend</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -30,7 +38,7 @@ Currently sharpening my skills in _Data Structures & Algorithms (DSA)_ to prepar
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-### ⚙️ **Backend**
+<h3>⚙️ Backend</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -38,26 +46,28 @@ Currently sharpening my skills in _Data Structures & Algorithms (DSA)_ to prepar
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
-### 🗄️ **Database**
+<h3>🗄️ Database</h3>
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🛠️ **Tools & IDE**
+<h3>🛠️ Tools & IDE</h3>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-### 📚 **CS Fundamentals**
-- **Object-Oriented Programming (OOP)**
-- **Database Management Systems (DBMS)**
-- **Data Structures & Algorithms (DSA)**
-- **Operating Systems (OS)**
+<h3>📚 CS Fundamentals</h3>
+<ul>
+  <li><b>Object-Oriented Programming (OOP)</b></li>
+  <li><b>Database Management Systems (DBMS)</b></li>
+  <li><b>Data Structures & Algorithms (DSA)</b></li>
+  <li><b>Operating Systems (OS)</b></li>
+</ul>
 
 ---
 
-## 🌱 _Always learning, building, and growing._  
-## 🤝 _Let’s connect and collaborate!_
+<h2 style="color: #673ab7;">🌱 Always learning, building, and growing.</h2>
+<h2 style="color: #009688;">🤝 Let’s connect and collaborate!</h2>
