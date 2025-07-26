@@ -66,8 +66,10 @@
   <li><b>Data Structures & Algorithms (DSA)</b></li>
   <li><b>Operating Systems (OS)</b></li>
 </ul>
-<h2 style="color: #673ab7;">🌱 Always learning, building, and growing.</h2>
-<h2 style="color: #009688;">🤝 Let’s connect and collaborate!</h2>
-### 🐍 My GitHub Contribution Snake
+
+
 ![Snake animation](https://raw.githubusercontent.com/SidduKutchula/snake-animation/output/github-contribution-grid-snake.svg)
 
+
+<h2 style="color: #673ab7;">🌱 Always learning, building, and growing 🔍.</h2>
+                                           <h2 style="color: #009688;">🤝 Let’s connect and collaborate! ❤️</h2>
