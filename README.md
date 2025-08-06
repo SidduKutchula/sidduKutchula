@@ -3,29 +3,16 @@
   <img src="https://user-images.githubusercontent.com/81398968/160081486-30f768cc-58bb-464a-98d6-3794bd6f4b8a.gif" width="100%" />
 </p>
 
-<!-- Gradient Heading -->
-<h1 align="center" style="font-size: 2.5rem; font-family: 'Segoe UI', sans-serif; color: #ff6f61;">
-  🚀 Aspiring Software Developer
-</h1>
-
-<p align="center" style="font-size: 1.1rem; font-weight: bold; color: #4fc3f7;">
-  🌐 Passionate About Full-Stack Development, DSA & Real-World Projects
-</p>
-
----
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F7B93E&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Siddu+Kutchula;A+Passionate+Full+Stack+Web+Developer;Passionate+about+Building+Cool+Projects;Always+Learning+New+Things;DSA+and+Real-+World+Projects)](https://git.io/typing-svg)
 
 <h2 style="color: #4CAF50;">🧠 About Me</h2>
 
-<p>
-  I'm a <b>motivated learner</b> with hands-on experience in building dynamic web applications using 
-  <span style="color: #61dafb;"><b>Django</b></span>, 
-  <span style="color: #61dafb;"><b>React</b></span>, and 
-  <span style="color: #336791;"><b>PostgreSQL</b></span>.<br/>
-  I enjoy solving real-world problems through clean code, responsive design, and structured development.<br/>
-  Currently sharpening my skills in <b>Data Structures & Algorithms (DSA)</b> to prepare for top tech opportunities.
-</p>
+🚀 I'm a **motivated learner** with hands‑on experience building **dynamic web applications** using **HTML, CSS, JavaScript, React**, and **Figma**.  
+👯 I'm seeking **Collaboration** opportunities on real-time web development projects.
+💡 I enjoy solving **real‑world problems** through **clean code**, **responsive design**, and **structured development**.  
+📚 Currently sharpening my skills in **Data Structures & Algorithms (DSA)** to prepare for **top tech opportunities**.  
+🌱 Always eager to **learn, build, and explore** new ideas that make a difference.  
 
----
 
 <h2 style="color: #FF9800;">🔧 Skills</h2>
 
@@ -71,6 +58,69 @@
 ![](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&theme=radical&hide_border=false&layout=compact)
+
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/siddu-kutchula-0a4950291/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sidduKutchula)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/)
+
+
+
+
+## 💻 Tech Stack:
+![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sidduKutchula&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=sidduKutchula&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sidduKutchula&theme=radical&hide_border=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=sidduKutchula&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## ✍️ Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🔥 Contribution Graph:
+[![Siddu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sidduKutchula&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 👀 Visitor Count:
+![Visitor Count](https://komarev.com/ghpvc/?username=sidduKutchula&color=blue&style=for-the-badge&label=Profile+Views)
+
+---
 
 
 
