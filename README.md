@@ -68,7 +68,6 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/)
 
 
-
 ## 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
