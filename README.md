@@ -7,7 +7,7 @@
 
 <h2 style="color: #4CAF50;">🧠 About Me</h2>
 
-🚀 I'm a **motivated learner** with hands‑on experience building **dynamic web applications** using **HTML, CSS, JavaScript, React**, and **Figma**.  
+🚀 I'm a **motivated learner** with hands‑on experience building **dynamic web applications** using **HTML, CSS, JavaScript, React, and Figma**.  
 👯 I'm seeking **Collaboration** opportunities on real-time web development projects.
 💡 I enjoy solving **real‑world problems** through **clean code**, **responsive design**, and **structured development**.  
 📚 Currently sharpening my skills in **Data Structures & Algorithms (DSA)** to prepare for **top tech opportunities**.  
