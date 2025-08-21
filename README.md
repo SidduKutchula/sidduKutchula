@@ -5,7 +5,7 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F7B93E&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Siddu+Kutchula;A+Passionate+Full+Stack+Web+Developer;Passionate+about+Building+Cool+Projects;Always+Learning+New+Things;DSA+and+Real-+World+Projects)](https://git.io/typing-svg)
 
-<h1 style="color: #4CAF50;">🧠 About Me</h1>
+                                                                                 <h1 style="color: #4CAF50;">🧠 About Me</h1>
 
 🚀 I'm a **motivated learner** with hands‑on experience building **dynamic web applications** using **HTML, CSS, JavaScript, React, and Figma**.  
 👯 I'm seeking **Collaboration** opportunities on real-time web development projects.
