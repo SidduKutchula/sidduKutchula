@@ -122,5 +122,5 @@
 ![Snake animation](https://raw.githubusercontent.com/SidduKutchula/snake-animation/output/github-contribution-grid-snake.svg)
 
 
-<h2 style="color: #673ab7;">🌱 Always learning, building, and growing 🔍.</h2>
-<h2 style="color: #009688;">🤝 Let’s connect and collaborate! ❤️</h2>
+<h1 style="color: #673ab7;">🌱 Always learning, building, and growing 🔍.</h1>
+<h1 style="color: #009688;">🤝 Let’s connect and collaborate! ❤️</h1>
