@@ -7,11 +7,11 @@
 
 <h1 style="color: #4CAF50; text-align:"center";>🧠 ABOUT ME</h1>
 
-🚀 I'm a **motivated learner** with hands‑on experience building **dynamic web applications** using **HTML, CSS, JavaScript, React, and Figma**.  
-👯 I'm seeking **Collaboration** opportunities on real-time web development projects.
-💡 I enjoy solving **real‑world problems** through **clean code**, **responsive design**, and **structured development**.  
-📚 Currently sharpening my skills in **Data Structures & Algorithms (DSA)** to prepare for **top tech opportunities**.  
-🌱 Always eager to **learn, build, and explore** new ideas that make a difference.  
+✨ **Who I Am →** 🚀 Motivated learner with hands-on experience in **HTML, CSS, JavaScript, React, and Figma**.
+🤝 **Collaboration →** Open to working on real-time web development projects.
+💡**Passion →** Solving real-world problems with clean code & responsive design.
+📚 **Growth →** Sharpening DSA skills to crack top tech opportunities.
+🌱 **Mindset →** Always eager to learn, build, and explore impactful ideas.
 
 
 <h2 style="color: #FF9800;">🔧 Skills</h2>
