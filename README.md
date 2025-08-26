@@ -8,13 +8,9 @@
 <h1 style="color: #4CAF50; text-align:"center";>🧠 ABOUT ME</h1>
 
 ✨ **Who I Am →** 🚀 Motivated learner with hands-on experience in **HTML, CSS, JavaScript, React, and Figma**.
-
 🤝 **Collaboration →** Open to working on real-time web development projects.
-
 💡**Passion →** Solving real-world problems with clean code & responsive design.
-
 📚 **Growth →** Sharpening DSA skills to crack top tech opportunities.
-
 🌱 **Mindset →** Always eager to learn, build, and explore impactful ideas.
 
 
