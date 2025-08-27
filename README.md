@@ -7,7 +7,7 @@
 
 <h1 style="color: #4CAF50; text-align:"center";>🧠 ABOUT ME</h1>
 
-✨ **Who am I →** 🚀 Motivated learner with hands-on experience in **HTML, CSS, JavaScript, React, and Figma**.
+✨ **Who am I →** 🚀 Motivated learner with hands-on experience in **HTML, CSS, JavaScript, React, and Figma**
 
 🤝 **Collaboration →** Open to working on real-time web development projects.
 
