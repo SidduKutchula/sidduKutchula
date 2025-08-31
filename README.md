@@ -4,22 +4,20 @@
 </p>
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F7B93E&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Siddu+Kutchula;A+Passionate+Full+Stack+Web+Developer;Passionate+about+Building+Cool+Projects;Always+Learning+New+Things;DSA+and+Real-+World+Projects)](https://git.io/typing-svg)
-
-<h1 style="color: #4CAF50; text-align:"center";>🧠 ABOUT ME</h1>
-
-
-
-✨ **Who am I →** 🚀 Motivated learner with hands-on experience in **HTML, CSS, JavaScript, React, and Figma**
-
-🤝 **Collaboration →** Open to working on real-time web development projects.
-
-💡**Passion →** Solving real-world problems with clean code & responsive design.
-
-📚 **Growth →** Sharpening DSA skills to crack top tech opportunities.
-
-🌱 **Mindset →** Always eager to learn, build, and explore impactful ideas.
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠%20ABOUT%20ME-4CAF50?style=for-the-badge&logoColor=white" />
 
 
+✨ **Who am I →** 🚀 Motivated learner with hands-on experience in **HTML, CSS, JavaScript, React, and Figma**.  
+
+🤝 **Collaboration →** Open to contributing to real-time web development projects.  
+
+💡 **Passion →** Solving real-world problems with clean code & responsive design.  
+
+📚 **Growth →** Strengthening **DSA skills** to crack top tech opportunities.  
+
+🌱 **Mindset →** Curious, adaptable, and always eager to learn, build, and explore impactful ideas.  
+</p>
 
 <h2 style="color: #FF9800;">🔧 Skills</h2>
 
