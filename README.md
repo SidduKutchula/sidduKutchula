@@ -16,7 +16,7 @@
 ## 📌 About Me
 
 - 🚀 Full-Stack Developer with a strong foundation in **React, Node.js, Django, and SQL**
-- 🧠 Solved **500+ DSA problems** across platforms like **LeetCode**, **GFG**, and **HackerRank**
+- 🧠 Solved **500+ DSA problems** across platforms like **LeetCode**, **GFG**, **CodeChef** and **HackerRank**
 - 💡 Passionate about **building real-world projects** with clean, maintainable code
 - 🌐 Open to full-time roles, internships, or freelance collaborations
 - 🌱 Constantly learning and contributing to **open source** communities
