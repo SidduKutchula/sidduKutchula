@@ -119,10 +119,8 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sidduKutchula&show_icons=true&hide_border=true&theme=tokyonight" height="200px"/>
-</p>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=sidduKutchula&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FFDD00&text_color=FFFFFF&include_all_commits=true&count_private=true" height="180px"/>
+  
 
 
 ## 🌟 Most Used Languages  
@@ -131,6 +129,13 @@
   <!-- Stylish Compact Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidduKutchula&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=F8F8F2" height="200px"/>
 </p>
+
+<p align="center">
+  <!-- Dual Language Insights -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sidduKutchula&theme=tokyonight" height="190px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidduKutchula&theme=tokyonight" height="190px"/>
+</p>
+
 
 
 ## 🏆 GitHub Trophies  
@@ -147,8 +152,11 @@
 
 ---
 
-<!-- Contribution Graph -->
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SidduKutchula&theme=react-dark&hide_border=true&area=true)
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidduKutchula&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=FF6EC7&point=79C0FF&area=true" height="300px"/>
+</p>
+
 
 
 
