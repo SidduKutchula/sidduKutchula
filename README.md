@@ -5,20 +5,28 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F7B93E&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Siddu+Kutchula;A+Passionate+Full+Stack+Web+Developer;Passionate+about+Building+Cool+Projects;Always+Learning+New+Things;DSA+and+Real-+World+Projects)](https://git.io/typing-svg)
  
+<p>
   <img src="https://img.shields.io/badge/🧠%20ABOUT%20ME-4CAF50?style=for-the-badge&logoColor=white" />
-  
+</p>
 
 ✨ **Who am I →** 🚀 Motivated learner with hands-on experience in **HTML, CSS, JavaScript, React, and Figma**.  
 
-🤝 **Collaboration →** Open to contributing to real-time web development projects.  
+🤝 **Collaboration →** Open to contributing to real-time **web development projects**.  
 
-💡 **Passion →** Solving real-world problems with clean code & responsive design.  
+💡 **Passion →** Solving **real-world problems** with clean code & responsive design.  
 
 📚 **Growth →** Strengthening **DSA skills** to crack top tech opportunities.  
 
-🌱 **Mindset →** Curious, adaptable, and always eager to learn, build, and explore impactful ideas.  
+🌱 **Mindset →** Curious, adaptable, and always eager to **learn, build, and explore impactful ideas**.  
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-1E90FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20&%20ML%20Enthusiast-FF69B4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native%20Learner-FF4500?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-4CAF50?style=for-the-badge&logoColor=white" />
 </p>
+
 
 <h2 style="color: #FF9800;">🔧 Skills</h2>
 
@@ -62,50 +70,22 @@
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="50" height="50" alt="Netlify"/>
 </p>
 
-<h3>📚 CS Fundamentals</h3>
-<ul>
-  <li><b>Object-Oriented Programming (OOP)</b></li>
-  <li><b>Database Management Systems (DBMS)</b></li>
-  <li><b>Data Structures & Algorithms (DSA)</b></li>
-  <li><b>Operating Systems (OS)</b></li>
-</ul>
 
+## 🚀 Tech Stacks  
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/siddu-kutchula-0a4950291/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sidduKutchula)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://Siddu_Kutchula/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://siddukuchula62/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/siddu_kutchula)
-[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white)](https://Siddu-Kuchula/)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://sidduuu.com/)
-
-
-## 🚀 Tech Stack  
-
-<p align="left"> 
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-
-  <!-- Database & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
+<p align="center">
+  <!-- Core Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" height="50"/>
+  <br/>
+  <!-- Web Dev -->
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" height="50"/>
+  <br/>
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=git,github,figma,mysql,postgres" height="50"/>
 </p>
+
+<!-- 🌊 Animated Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,100:58A6FF&height=120&section=footer" />
 
 ## 📊 Coding Profiles
 ![LeetCode Stats](https://leetcard.jacoblin.cool/siddu_kutchula?theme=radical&font=Roboto&ext=heatmap)  
@@ -123,31 +103,53 @@
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sidduKutchula&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=sidduKutchula&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sidduKutchula&theme=radical&hide_border=false&layout=compact)
+
+
+
+
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sidduKutchula&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FFDD00&text_color=FFFFFF&include_all_commits=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidduKutchula&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFDD00&currStreakLabel=FFDD00" height="180px"/>
+</p>
+
+## 🌟 Most Used Languages  
+
+<p align="center">
+  <!-- Stylish Compact Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidduKutchula&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=F8F8F2" height="200px"/>
+</p>
+
+<p align="center">
+  <!-- Dual Language Insights -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sidduKutchula&theme=tokyonight" height="190px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidduKutchula&theme=tokyonight" height="190px"/>
+</p>
+
+---
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sidduKutchula&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
+</p>
 
 ---
 
-
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=sidduKutchula&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<!-- 🌊 Animated Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,100:58A6FF&height=120&section=header" />
 
 
 ---
+
 
 ## ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## 🔥 Contribution Graph:
-[![Siddu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sidduKutchula&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
 
 ## 👀 Visitor Count:
 ![Visitor Count](https://komarev.com/ghpvc/?username=sidduKutchula&color=blue&style=for-the-badge&label=Profile+Views)
