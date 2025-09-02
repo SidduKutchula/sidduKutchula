@@ -1,32 +1,40 @@
 
+<!-- Header Animation -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/81398968/160081486-30f768cc-58bb-464a-98d6-3794bd6f4b8a.gif" width="100%" />
 </p>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F7B93E&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Siddu+Kutchula;A+Passionate+Full+Stack+Web+Developer;Passionate+about+Building+Cool+Projects;Always+Learning+New+Things;DSA+and+Real-+World+Projects)](https://git.io/typing-svg)
- 
-<p>
-  <img src="https://img.shields.io/badge/🧠%20ABOUT%20ME-4CAF50?style=for-the-badge&logoColor=white" />
+<!-- Typing Intro -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F7B93E&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Siddu+Kutchula;A+Passionate+Full+Stack+Web+Developer;Building+Impactful+Projects;DSA+Practitioner+%7C+Open+Source+Contributor;Let’s+Learn+%7C+Build+%7C+Grow!" alt="Typing SVG" />
+  </a>
 </p>
 
-✨ **Who am I →** 🚀 Motivated learner with hands-on experience in **HTML, CSS, JavaScript, React, and Figma**.  
+---
 
-🤝 **Collaboration →** Open to contributing to real-time **web development projects**.  
+## 📌 About Me
 
-💡 **Passion →** Solving **real-world problems** with clean code & responsive design.  
-
-📚 **Growth →** Strengthening **DSA skills** to crack top tech opportunities.  
-
-🌱 **Mindset →** Curious, adaptable, and always eager to **learn, build, and explore impactful ideas**.  
-
+- 🚀 Full-Stack Developer with a strong foundation in **React, Node.js, Django, and SQL**
+- 🧠 Solved **500+ DSA problems** across platforms like **LeetCode**, **GFG**, and **HackerRank**
+- 💡 Passionate about **building real-world projects** with clean, maintainable code
+- 🌐 Open to full-time roles, internships, or freelance collaborations
+- 🌱 Constantly learning and contributing to **open source** communities
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-1E90FF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20&%20ML%20Enthusiast-FF69B4?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native%20Learner-FF4500?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-4CAF50?style=for-the-badge&logoColor=white" />
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://your-resume-link.com">
+    <img src="https://img.shields.io/badge/📄 Resume-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+  </a>
+  <a href="mailto:siddukuchula62@gmail.com">
+    <img src="https://img.shields.io/badge/✉️ Email Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-id/">
+    <img src="https://img.shields.io/badge/🔗 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-
 
 <h2 style="color: #FF9800;">🔧 Skills</h2>
 
