@@ -152,9 +152,8 @@
 ---
 
 <!-- Contribution Graph -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
-</p>
+
+
 
 
 ## ✍️ Random Dev Quote:
