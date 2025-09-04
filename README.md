@@ -92,6 +92,42 @@
   <img src="https://skillicons.dev/icons?i=git,github,figma,mysql,postgres" height="50"/>
 </p>
 
+
+
+## 👨‍💻 Coding Platforms    
+
+<p align="center">
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/siddu_kutchula/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+  </a>
+
+  <!-- GeeksforGeeks -->
+  <a href="https://auth.geeksforgeeks.org/user/siddukuczdcb/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/siddukuchula62" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  </a>
+
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/siddu_kutchula" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/>
+  </a>
+
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/YOUR_CF_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+</p>
+
 <!-- 🌊 Animated Gradient Divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,100:58A6FF&height=120&section=footer" />
 
