@@ -12,8 +12,7 @@
 </p>
 
 ---
-
-## 📌 About Me
+  ## 📌 About Me
 
 - 🚀 Full-Stack Developer with a strong foundation in **React, Node.js, Django, and SQL**
 - 🧠 Solved **500+ DSA problems** across platforms like **LeetCode**, **GFG**, **CodeChef** and **HackerRank**
