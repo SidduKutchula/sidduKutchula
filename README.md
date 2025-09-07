@@ -30,7 +30,7 @@
   <a href="mailto:siddukuchula62@gmail.com">
     <img src="https://img.shields.io/badge/✉️ Email Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-id/">
+  <a href="https://www.linkedin.com/in/siddu-kutchula-0a4950291/">
     <img src="https://img.shields.io/badge/🔗 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
