@@ -6,10 +6,9 @@
 
 <!-- Typing Intro -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F7B93E&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Siddu+Kutchula;A+Passionate+Full+Stack+Web+Developer;Building+Impactful+Projects;DSA+Practitioner+%7C+Open+Source+Contributor;Let’s+Learn+%7C+Build+%7C+Grow!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Siddu+Kutchula;Full+Stack+Web+Developer+%7C+DSA+Practitioner;React+·+Node+·+Postgres+·+Java;Open+Source+Contributor+%7C+Tech+Learner;Available+for+SDE+Roles+%7C+Let's+Connect!" alt="Typing SVG" />
 </p>
+
 
 ---
   ## 📌 About Me
@@ -21,19 +20,28 @@
 - 🌱 Constantly learning and contributing to **open source** communities
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
+  <!-- Portfolio -->
+  <a href="https://your-portfolio-link.com" title="View My Portfolio">
     <img src="https://img.shields.io/badge/🌐 Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://your-resume-link.com">
+  <!-- Resume -->
+  <a href="https://your-resume-link.com" title="Check My Resume">
     <img src="https://img.shields.io/badge/📄 Resume-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white" />
   </a>
-  <a href="mailto:siddukuchula62@gmail.com">
-    <img src="https://img.shields.io/badge/✉️ Email Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <!-- Email -->
+  <a href="mailto:siddukuchula62@gmail.com" title="Email Me">
+    <img src="https://img.shields.io/badge/✉️ Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/siddu-kutchula-0a4950291/">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/siddu-kutchula-0a4950291/" title="Connect on LinkedIn">
     <img src="https://img.shields.io/badge/🔗 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <!-- GitHub -->
+  <a href="https://github.com/siddu62" title="Visit My GitHub">
+    <img src="https://img.shields.io/badge/🐙 GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
 
 <h2 style="color: #FF9800;">🔧 Skills</h2>
 
