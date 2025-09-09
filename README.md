@@ -11,12 +11,6 @@
 
  ---
  
-<p align="center">
-  <img src="https://github.com/SidduKutchula/sidduKutchula/raw/1e161334d7091e1f8f2acdfd9a15927b6a938dd8/retouch_2025051319434855.jpg" 
-       alt="Siddu Kutchula" 
-       width="200" 
-       style="border-radius: 50%; border: 4px solid #58A6FF;" />
-</p>
 
 
 
