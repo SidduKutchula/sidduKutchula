@@ -205,21 +205,12 @@
 
 ## 🌐 Connect With Me  
 
-<p align="center">
+<p align="center"> 
   <a href="https://www.linkedin.com/in/siddu-kutchula-0a4950291/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="55" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/sidduKutchula" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/>
-  </a>
-  <a href="https://leetcode.com/Siddu_Kutchula/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="55" alt="LeetCode"/>
-  </a>
-  <a href="https://www.hackerrank.com/siddukuchula62" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" width="55" alt="HackerRank"/>
-  </a>
-  <a href="https://www.codechef.com/users/siddu_kutchula" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="55" alt="CodeChef"/>
   </a>
   <a href="https://codepen.io/Siddu-Kuchula/" target="_blank">
     <img src="https://skillicons.dev/icons?i=codepen" width="55" alt="CodePen"/>
@@ -227,10 +218,11 @@
   <a href="https://stackoverflow.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=stackoverflow" width="55" alt="Stack Overflow"/>
   </a>
-  <a href="https://instagram.com/sidduuu.com" target="_blank">
+  <a href="https://instagram.com/sidduuu" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="55" alt="Instagram"/>
   </a>
 </p>
+
 
 
 
