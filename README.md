@@ -240,9 +240,10 @@
 
 ![Snake animation](https://raw.githubusercontent.com/SidduKutchula/snake-animation/output/github-contribution-grid-snake.svg)
 
-
 <p align="center">
-  🌱 Learning, building, and growing—let’s connect to create meaningful impact.
+  <span style="color:#6A5ACD; font-weight:bold; font-size:18px;">
+    🌱 Learning, building, and growing—let’s connect to create meaningful impact.
+  </span>
 </p>
 
 
