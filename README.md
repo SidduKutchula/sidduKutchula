@@ -12,8 +12,6 @@
  ---
  
 
-
-
   ## 📌 About Me
 
 - 🚀 Full-Stack Developer with a strong foundation in **React, Node.js, Django, and SQL**
@@ -243,4 +241,4 @@
 ![Snake animation](https://raw.githubusercontent.com/SidduKutchula/snake-animation/output/github-contribution-grid-snake.svg)
 
 
-<h2 style="color: #273ab7;">🌱 Always learning, building, and growing—let’s connect and create impact together!🚀</h2>
+<h3 style="color: #273ab7;">🌱 Learning, building, and growing—let’s connect to create meaningful impact.🚀</h3>
