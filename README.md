@@ -241,4 +241,8 @@
 ![Snake animation](https://raw.githubusercontent.com/SidduKutchula/snake-animation/output/github-contribution-grid-snake.svg)
 
 
-<h3 style="color: #273ab7;">🌱 Learning, building, and growing—let’s connect to create meaningful impact.🚀</h3>
+<p align="center">
+  🌱 Learning, building, and growing—let’s connect to create meaningful impact.
+</p>
+
+
