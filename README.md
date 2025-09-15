@@ -12,6 +12,7 @@
  ---
 
 
+
   ## 📌 About Me
 
 - 🚀 Full-Stack Developer with a strong foundation in **React, Node.js, Django, and SQL**
@@ -42,13 +43,6 @@
     <img src="https://img.shields.io/badge/🐙 GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-
-
-
-<!-- 🌊 Animated Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,100:58A6FF&height=120&section=header" />
-
 
 
 
@@ -145,6 +139,13 @@
 </p>
 
 ---
+
+
+
+<!-- 🌊 Animated Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,100:58A6FF&height=120&section=header" />
+
+
 
 ## 📊 Coding Profiles
 ![LeetCode Stats](https://leetcard.jacoblin.cool/siddu_kutchula?theme=radical&font=Roboto&ext=heatmap)  
