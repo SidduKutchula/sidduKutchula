@@ -44,7 +44,15 @@
 </p>
 
 
-<h2 style="color: #FF9800;">🔧 Skills</h2>
+
+
+<!-- 🌊 Animated Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,100:58A6FF&height=120&section=header" />
+
+
+
+
+<h1 style="color: #FF9800;">🔧 Skills</h1>
 
 <h3>💻 Frontend</h3>
 <p align="center">
@@ -136,8 +144,7 @@
   </a>
 </p>
 
-<!-- 🌊 Animated Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,100:58A6FF&height=120&section=footer" />
+---
 
 ## 📊 Coding Profiles
 ![LeetCode Stats](https://leetcard.jacoblin.cool/siddu_kutchula?theme=radical&font=Roboto&ext=heatmap)  
@@ -190,11 +197,6 @@
 
 ---
 
-<!-- 🌊 Animated Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,100:58A6FF&height=120&section=header" />
-
-
----
 
 <p align="center">
   <!-- Activity Graph -->
@@ -242,8 +244,11 @@
 
 <p align="center">
   <span style="color:#6A5ACD; font-weight:bold; font-size:18px;">
-    🌱 Learning, building, and growing—let’s connect to create meaningful impact.
+    <h3>🌱 Learning, building, and growing—let’s connect to create meaningful impact.❤️🎉</h3>
   </span>
 </p>
 
+
+<!-- 🌊 Animated Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,100:58A6FF&height=120&section=footer" />
 
