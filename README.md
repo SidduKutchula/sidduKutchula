@@ -203,6 +203,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidduKutchula&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=FF6EC7&point=79C0FF&area=true" height="300px"/>
 </p>
 
+
+
+## ✍️ Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+
+
+## 👀 Visitor Count:
+![Visitor Count](https://komarev.com/ghpvc/?username=sidduKutchula&color=blue&style=for-the-badge&label=Profile+Views)
+
+
 ## 🌐 Connect With Me  
 
 <p align="center"> 
@@ -222,21 +235,6 @@
     <img src="https://skillicons.dev/icons?i=instagram" width="55" alt="Instagram"/>
   </a>
 </p>
-
-
-
-
-
-## ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-
-
-## 👀 Visitor Count:
-![Visitor Count](https://komarev.com/ghpvc/?username=sidduKutchula&color=blue&style=for-the-badge&label=Profile+Views)
-
 
 
 
