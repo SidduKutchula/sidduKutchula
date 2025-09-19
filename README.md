@@ -22,7 +22,7 @@
 
 <p align="center">
   <!-- Portfolio -->
-  <a href="https://your-portfolio-link.com" title="View My Portfolio">
+  <a href="https://portfolio-siddu-kutchula-chi.vercel.app/" title="View My Portfolio">
     <img src="https://img.shields.io/badge/🌐 Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <!-- Resume -->
