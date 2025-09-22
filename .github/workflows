@@ -1,1 +1,17 @@
+name: Update LeetCode Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+  workflow_dispatch:       # allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update LeetCode Stats
+        uses: austin0199/leetcode-readme-stats@latest
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          leetcode_username: Siddu_Kutchula
 
