@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/🌐 Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <!-- Resume -->
-  <a href="https://your-resume-link.com" title="Check My Resume">
+  <a href="#" title="Check My Resume">
     <img src="https://img.shields.io/badge/📄 Resume-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white" />
   </a>
   <!-- Email -->
