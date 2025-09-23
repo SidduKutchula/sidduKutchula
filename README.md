@@ -153,7 +153,6 @@
   [![GfG Stats](https://gfgstatscard.vercel.app/siddukuczdcb?theme=radical)](https://www.geeksforgeeks.org/user/siddukuczdcb/)
   <br><br>
 
- [![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/siddukuchula62)
 
 <!-- CodeChef Rating Badge (via cp-rating-api) -->
   ![CodeChef Rating](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodechef%2Fsiddu_kutchula&cacheSeconds=86400)
