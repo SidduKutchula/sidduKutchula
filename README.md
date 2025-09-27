@@ -41,6 +41,11 @@
   <a href="https://github.com/SidduKutchula" title="Visit My GitHub">
     <img src="https://img.shields.io/badge/🐙 GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
+  <!-- Codolio -->
+<a href="https://www.codolio.com/your-profile-username" title="View My Codolio Profile">
+  <img src="https://img.shields.io/badge/💻 Codolio-6610f2?style=for-the-badge&logo=codio&logoColor=white" />
+</a>
 </p>
 
 
