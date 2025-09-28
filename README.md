@@ -62,7 +62,6 @@
 
 </p>
 
-
 <h3>⚙️ Backend</h3>
 <p align=center>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60" alt="C"/>
@@ -91,7 +90,6 @@
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="50" height="50" alt="Vercel"/>
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="50" height="50" alt="Netlify"/>
 </p>
-
 
 ## 🚀 Tech Stacks  
 
