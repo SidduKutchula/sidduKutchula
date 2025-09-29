@@ -11,7 +11,6 @@
 
  ---
 
-
   ## 📌 About Me
 
 - 🚀 Full-Stack Developer with a strong foundation in **React, Node.js, Django, and SQL**
