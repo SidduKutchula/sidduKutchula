@@ -41,7 +41,7 @@
   </a>
 
   <!-- Codolio -->
-<a href="https://www.codolio.com/your-profile-username" title="View My Codolio Profile">
+<a href="https://codolio.com/profile/Siddu%20Kutchula" title="View My Codolio Profile">
   <img src="https://img.shields.io/badge/💻 Codolio-6610f2?style=for-the-badge&logo=codio&logoColor=white" />
 </a>
 </p>
