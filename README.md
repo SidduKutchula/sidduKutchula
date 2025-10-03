@@ -34,10 +34,6 @@
   <a href="https://www.linkedin.com/in/siddu-kutchula-0a4950291/" title="Connect on LinkedIn">
     <img src="https://img.shields.io/badge/🔗 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!-- GitHub -->
-  <a href="https://github.com/SidduKutchula" title="Visit My GitHub">
-    <img src="https://img.shields.io/badge/🐙 GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 
   <!-- Codolio -->
 <a href="https://codolio.com/profile/Siddu%20Kutchula" title="View My Codolio Profile">
