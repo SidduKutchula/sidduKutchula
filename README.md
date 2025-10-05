@@ -1,4 +1,3 @@
-
 <!-- Header Animation -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/81398968/160081486-30f768cc-58bb-464a-98d6-3794bd6f4b8a.gif" width="100%" />
