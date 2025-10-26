@@ -81,7 +81,7 @@
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="50" height="50" alt="Netlify"/>
 </p>
 
-## 🚀 Tech Stacks  
+## 🚀 Tech Stacks   
 
 <p align="center">
   <!-- Core Languages -->
