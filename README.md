@@ -38,8 +38,6 @@
 </a>
 </p>
 
-
-
 <h1 style="color: #FF9800;">🔧 Skills</h1>
 
 <h3>💻 Frontend</h3>
