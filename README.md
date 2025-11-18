@@ -39,9 +39,6 @@
 </p>
 
 <h1 style="color: #FF9800;">🔧 Skills</h1>
-
-<h3>💻 Frontend</h3>
-<p align="center">
  <h3>💻 Frontend</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5"/>
