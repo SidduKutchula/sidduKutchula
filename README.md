@@ -7,12 +7,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Siddu+Kutchula;Full+Stack+Web+Developer+%7C+DSA+Practitioner;React+·+Node+·+Postgres+·+Java;Open+Source+Contributor+%7C+Tech+Learner;Available+for+SDE+Roles+%7C+Let's+Connect!" alt="Typing SVG" />
 </p>
  <h1 style="color: #FF9800;">📌 About Me</h1>
-- 🚀 Full-Stack Developer with a strong foundation in **React, Node.js, Django, and SQL**
-- 🧠 Solved **500+ DSA problems** across platforms like **LeetCode**, **GFG**, **CodeChef** and **HackerRank**
-- 💡 Passionate about **building real-world projects** with clean, maintainable code
-- 🌐 Open to full-time roles, internships, or freelance collaborations
-- 🌱 Constantly learning and contributing to **open source** communities
-</h1>
+- 🚀 **Full-Stack Developer** with a strong foundation in **React, Node.js, Django, and SQL**  
+- 🧠 Solved **500+ DSA problems** across platforms like **LeetCode**, **GFG**, **CodeChef**, and **HackerRank**  
+- 💡 Passionate about building **real-world projects** with clean, maintainable code  
+- 🌐 Open to **full-time roles, internships, or freelance collaborations**  
+- 🌱 Constantly learning and contributing to **open-source** communities  
+
 <p align="center">
   <!-- Portfolio -->
   <a href="https://portfolio-siddu-kutchula-chi.vercel.app/" title="View My Portfolio">
