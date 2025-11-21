@@ -12,7 +12,7 @@
 - 💡 Passionate about **building real-world projects** with clean, maintainable code
 - 🌐 Open to full-time roles, internships, or freelance collaborations
 - 🌱 Constantly learning and contributing to **open source** communities
-
+</h1>
 <p align="center">
   <!-- Portfolio -->
   <a href="https://portfolio-siddu-kutchula-chi.vercel.app/" title="View My Portfolio">
