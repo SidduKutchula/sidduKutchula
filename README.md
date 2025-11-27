@@ -1,17 +1,24 @@
+
 <!-- Header Animation -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/81398968/160081486-30f768cc-58bb-464a-98d6-3794bd6f4b8a.gif" width="100%" />
 </p>
 <!-- Typing Intro --> 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Siddu+Kutchula;Full+Stack+Web+Developer+%7C+DSA+Practitioner;React+·+Node+·+Postgres+·+Java;Open+Source+Contributor+%7C+Tech+Learner;Available+for+SDE+Roles+%7C+Let's+Connect!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Siddu+Kutchula;Full+Stack+Web+Developer+%7C+DSA+Practitioner;React+·+Node+·+Postgres+·+Java;Open+Source+Contributor+%7C+Tech+Learner;Available+for+SDE+Roles+%7C+Let's+Connect!" alt="Typing SVG" />
+</p>
+
+
+
+
 <h1>📌 About Me</h1>
 
-- 🚀 **Full-Stack Developer** with solid experience in **React, Node.js, Django, and SQL**
-- 🧠 Solved **500+ DSA problems** on **LeetCode, GFG, CodeChef, and HackerRank**
-- 💡 Passionate about building **real-world projects** with clean, maintainable code
-- 🌐 Open to **full-time roles, internships, and freelance opportunities**
-- 🌱 Actively learning and contributing to **open-source** communities
+- 🚀 **Full-Stack Developer** experienced in **React, Node.js, Django, and SQL**, focused on building scalable and user-centric applications.
+- 🧠 Solved **500+ DSA problems** across **LeetCode, GFG, CodeChef, and HackerRank**, consistently improving algorithmic and problems.
+- 💡 Passionate about creating **real-world projects** with clean, maintainable, and production-ready code.
+- 🌐 Open to **full-time roles, internships, and freelance opportunities** in full-stack or backend engineering.
+- 🤝 Actively contributing to **open-source** and always exploring ways to collaborate and grow.
+- 🌱 Currently learning **Java + DSA, System Design, and Advanced Full-Stack Development**.
 
 
 <p align="center">
@@ -134,44 +141,6 @@
   </a>
 </p>
 
----
-
-
-
-<!-- 🌊 Animated Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,100:58A6FF&height=120&section=header" />
-
-
-<!-- ──────────────────────────────────────────────── -->
-<!--                  HEADER / HERO                   -->
-<!-- ──────────────────────────────────────────────── -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=28&pause=1200&color=7C3AED&width=700&center=true&lines=Hi%2C+I'm+Siddu+Kuchula+👋;Passionate+Developer+%7C+DSA+Lover+%7C+Open+Source;Solving+Problems+Every+Single+Day+💡" />
-
-</div>
-
----
-
-<!-- ──────────────────────────────────────────────── -->
-<!--                 SOCIAL / CONTACT                 -->
-<!-- ──────────────────────────────────────────────── -->
-<div align="center">
-
-### 🌐 Connect with me  
-<a href="mailto:siddu@example.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/siddu"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/siddu"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
-
----
-
-<!-- ──────────────────────────────────────────────── -->
-<!--                CODING PROFILES                   -->
-<!-- ──────────────────────────────────────────────── -->
-## 🚀 Coding Profile Summary
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/siddu_kutchula?theme=radical&font=Roboto&ext=heatmap" alt="LeetCode Stats" />
 </p>
@@ -186,37 +155,12 @@
   <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodechef%2Fsiddu_kutchula&cacheSeconds=86400" alt="CodeChef Rating"/>
 </p>
 
----
+## 👀 Visitor Count:
+![Visitor Count](https://komarev.com/ghpvc/?username=sidduKutchula&color=blue&style=for-the-badge&label=Profile+Views)
+## ✍️ Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- ──────────────────────────────────────────────── -->
-<!--                     SKILLS                       -->
-<!-- ──────────────────────────────────────────────── -->
-## 🛠️ Skills & Technologies
 
-<div align="center">
-
-| Category | Skills |
-|---------|--------|
-| **Languages** | Java, Python, C++, JavaScript |
-| **Web Dev** | React, Node.js, Django, HTML, CSS |
-| **Databases** | MySQL, PostgreSQL, MongoDB |
-| **Cloud / Tools** | Git, GitHub, VS Code, Postman |
-| **Core CS** | Data Structures, Algorithms, OS, DBMS |
-
-</div>
-
----
-
-<!-- ──────────────────────────────────────────────── -->
-<!--             MOST USED LANGUAGES                  -->
-<!-- ──────────────────────────────────────────────── -->
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddu&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170px" />
-
-</div>
-
----
 
 ## 📊 GitHub Analytics  
 
@@ -246,89 +190,31 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sidduKutchula&theme=radical&no-frame=true&no-bg=false&margin-w=15&row=1&column=7" />
 </p>
 
----
-
+## 📈 Activity Graph
 
 <p align="center">
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidduKutchula&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=FF6EC7&point=79C0FF&area=true" height="300px"/>
 </p>
 
+<div >
 
-
-## ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
----
-
-<!-- ──────────────────────────────────────────────── -->
-<!--                ANIMATED GIF SECTION              -->
-<!-- ──────────────────────────────────────────────── -->
-## ✨ What I'm Doing Now
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320px"/>
-
-### 🌱 Currently learning  
-**Java + DSA • System Design • Full-stack Development**
-
-### 🔥 Focused on  
-**Daily LeetCode • Building Projects • Improving Problem Solving**
-
-</div>
-<!-- ──────────────────────────────────────────────── -->
-<!--                FINAL MESSAGE                     -->
-<!-- ──────────────────────────────────────────────── -->
-<div align="center">
-
-### 🚀 Thanks for visiting my profile!  
-⭐ **Feel free to star my repositories** to support my work!
-
-</div>
-
-
----
-
-
-
-## 👀 Visitor Count:
-![Visitor Count](https://komarev.com/ghpvc/?username=sidduKutchula&color=blue&style=for-the-badge&label=Profile+Views)
-
-
-## 🌐 Connect With Me  
-
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/siddu-kutchula-0a4950291/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="55" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/sidduKutchula" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/>
-  </a>
-  <a href="https://codepen.io/Siddu-Kuchula/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codepen" width="55" alt="CodePen"/>
-  </a>
-  <a href="https://stackoverflow.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" width="55" alt="Stack Overflow"/>
-  </a>
-  <a href="https://instagram.com/sidduuu" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="55" alt="Instagram"/>
-  </a>
-</p>
-
-
+## **🐍 Contribution Graph**
 
 ![Snake animation](https://raw.githubusercontent.com/SidduKutchula/snake-animation/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <span style="color:#6A5ACD; font-weight:bold; font-size:18px;">
-    <h3>🌱 Learning, building, and growing—let’s connect to create meaningful impact.❤️🎉</h3>
-  </span>
-</p>
+</div>
 
 
-<!-- 🌊 Animated Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,100:58A6FF&height=120&section=footer" />
+
+
+
+
+<div align="center">
+
+### 🚀 Thanks for visiting my profile!  
+<h3>⭐ If my projects inspire you, feel free to star the repositories — your support truly matters❤️🎉.</h3>
+
+</div>
+
 
