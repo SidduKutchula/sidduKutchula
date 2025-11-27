@@ -142,26 +142,81 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,100:58A6FF&height=120&section=header" />
 
 
+<!-- ──────────────────────────────────────────────── -->
+<!--                  HEADER / HERO                   -->
+<!-- ──────────────────────────────────────────────── -->
+<div align="center">
 
-## 📊 Coding Profiles
-![LeetCode Stats](https://leetcard.jacoblin.cool/siddu_kutchula?theme=radical&font=Roboto&ext=heatmap)  
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=28&pause=1200&color=7C3AED&width=700&center=true&lines=Hi%2C+I'm+Siddu+Kuchula+👋;Passionate+Developer+%7C+DSA+Lover+%7C+Open+Source;Solving+Problems+Every+Single+Day+💡" />
 
-  <!-- ✅ GeeksforGeeks Stat Card -->
-  [![GfG Stats](https://gfgstatscard.vercel.app/siddukuczdcb?theme=radical)](https://www.geeksforgeeks.org/user/siddukuczdcb/)
-  <br><br>
+</div>
 
+---
 
-<!-- CodeChef Rating Badge (via cp-rating-api) -->
-  ![CodeChef Rating](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodechef%2Fsiddu_kutchula&cacheSeconds=86400)
+<!-- ──────────────────────────────────────────────── -->
+<!--                 SOCIAL / CONTACT                 -->
+<!-- ──────────────────────────────────────────────── -->
+<div align="center">
 
+### 🌐 Connect with me  
+<a href="mailto:siddu@example.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/siddu"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/siddu"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+---
+
+<!-- ──────────────────────────────────────────────── -->
+<!--                CODING PROFILES                   -->
+<!-- ──────────────────────────────────────────────── -->
+## 🚀 Coding Profile Summary
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/siddu_kutchula?theme=radical&font=Roboto&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/siddukuczdcb/">
+    <img src="https://gfgstatscard.vercel.app/siddukuczdcb?theme=radical" alt="GFG Stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodechef%2Fsiddu_kutchula&cacheSeconds=86400" alt="CodeChef Rating"/>
 </p>
 
 ---
 
+<!-- ──────────────────────────────────────────────── -->
+<!--                     SKILLS                       -->
+<!-- ──────────────────────────────────────────────── -->
+## 🛠️ Skills & Technologies
 
+<div align="center">
 
+| Category | Skills |
+|---------|--------|
+| **Languages** | Java, Python, C++, JavaScript |
+| **Web Dev** | React, Node.js, Django, HTML, CSS |
+| **Databases** | MySQL, PostgreSQL, MongoDB |
+| **Cloud / Tools** | Git, GitHub, VS Code, Postman |
+| **Core CS** | Data Structures, Algorithms, OS, DBMS |
 
+</div>
 
+---
+
+<!-- ──────────────────────────────────────────────── -->
+<!--             MOST USED LANGUAGES                  -->
+<!-- ──────────────────────────────────────────────── -->
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddu&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170px" />
+
+</div>
+
+---
 
 ## 📊 GitHub Analytics  
 
@@ -203,6 +258,37 @@
 
 ## ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+---
+
+<!-- ──────────────────────────────────────────────── -->
+<!--                ANIMATED GIF SECTION              -->
+<!-- ──────────────────────────────────────────────── -->
+## ✨ What I'm Doing Now
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320px"/>
+
+### 🌱 Currently learning  
+**Java + DSA • System Design • Full-stack Development**
+
+### 🔥 Focused on  
+**Daily LeetCode • Building Projects • Improving Problem Solving**
+
+</div>
+<!-- ──────────────────────────────────────────────── -->
+<!--                FINAL MESSAGE                     -->
+<!-- ──────────────────────────────────────────────── -->
+<div align="center">
+
+### 🚀 Thanks for visiting my profile!  
+⭐ **Feel free to star my repositories** to support my work!
+
+</div>
+
 
 ---
 
