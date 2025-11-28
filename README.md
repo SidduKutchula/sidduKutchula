@@ -12,17 +12,13 @@
 
 ## 📌 About Me
 
-🚀 **Full-Stack Developer** skilled in React, Node.js, Django, and SQL, focused on building scalable and user-centric applications.
+🚀 **Full-Stack Developer** skilled in **React, Node.js, Django, and SQL**, focused on building scalable and user-centric applications.
 
-🧠 Solved **500+ DSA problems** across LeetCode, GFG, CodeChef, and HackerRank with strong algorithmic foundations.
+🧠 Solved **500+ DSA problems** **across LeetCode, GFG, CodeChef**, and **HackerRank** with strong algorithmic foundations.
 
-💡 Passionate about real-world projects with clean architecture and production-ready code.
+🤝 Active **Open-Source Contributor** focused on clean architecture, collaborative development, and production-quality engineering. 
 
-🌐 Open to **full-time, internship, and freelance opportunities** in full-stack and backend engineering.
-
-🤝 Active in **open-source**, committed to collaboration and code quality.
-
-🌱 Currently learning **Java + DSA, System Design, and Advanced Full-Stack Development**.
+🌐 Open to **full-time, internship, and freelance opportunities** in **full-stack** and **backend engineering**.
 
 
 
