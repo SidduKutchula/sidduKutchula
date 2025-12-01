@@ -12,7 +12,7 @@
 
 ## 📌 About Me
 
-🚀 **Full-Stack Developer** skilled in **React, Node.js, Django, and SQL**, focused on building scalable and user-centric applications.
+🚀 **Full-Stack Developer** skilled in **React, Node.js, Mango DB, and SQL**, focused on building scalable and user-centric applications.
 
 🧠 Solved **500+ DSA problems** **across LeetCode, GFG, CodeChef**, and **HackerRank** with strong algorithmic foundations.
 
