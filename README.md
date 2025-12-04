@@ -163,33 +163,28 @@
 
 
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidduKutchula&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FFDD00&text_color=FFFFFF&include_all_commits=true&count_private=true" height="180px"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=sidduKutchula&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FFDD00&text_color=FFFFFF" alt="GitHub Stats" />
+</p>
 
-
-## 🌟 Most Used Languages  
-
+## 🌟 Most Used Languages
 <p align="center">
-  <!-- Stylish Compact Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidduKutchula&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=F8F8F2" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidduKutchula&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- Dual Language Insights -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sidduKutchula&theme=tokyonight" height="190px"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidduKutchula&theme=tokyonight" height="190px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sidduKutchula&theme=tokyonight" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidduKutchula&theme=tokyonight" alt="Most commit language" />
 </p>
 
-
-
-## 🏆 GitHub Trophies  
-
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sidduKutchula&theme=radical&no-frame=true&no-bg=false&margin-w=15&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sidduKutchula&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 </p>
+
+
 
 ## 📈 Activity Graph
 
@@ -203,6 +198,8 @@
 ## **🐍 Contribution Graph**
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+<!-- ![Snake animation](https://raw.githubusercontent.com/SidduKutchula/snake-animation/output/github-contribution-grid-snake.svg) -->
 
 
 </div>
