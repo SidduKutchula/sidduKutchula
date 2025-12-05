@@ -107,8 +107,8 @@
 </p>
 
 
-
-## 👨‍💻 Coding Platforms    
+ 
+<h2 align="center">👨‍💻 Coding Platforms – Heatmaps & Stats</h2>
 
 <p align="center">
   <!-- LeetCode -->
@@ -144,8 +144,6 @@
 <!-- =============================== -->
 <!--  Row-wise Heatmaps & Stats (Paste into README.md) -->
 <!-- =============================== -->
-
-<h2 align="center">🔥 Coding Platforms – Heatmaps & Stats</h2>
 
 <table align="center">
   <tr>
