@@ -69,6 +69,25 @@
   
 </p>
 
+<!-- FRAMEWORKS -->
+<h3>⚛️ Frameworks & Libraries</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" alt="Express"/>
+</p>
+
+
+<!-- AI ML -->
+<h3>🤖 AI / ML Tools</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60" alt="Scikit-Learn"/>
+</p>
+
 <!-- DATABASES -->
 <h3>🗄️ Database</h3>
 <p align=center>
@@ -96,41 +115,45 @@
 </p>
 
 
-## 🚀 Tech Stacks   
-
+## 🚀 Tech Stacks  
 <p align="center">
+
   <!-- Core Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" height="50"/>
-  <br/>
-  <!-- Web Dev -->
+ 
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" height="50"/>
+
+  <!-- Tools -->
+   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman"/>
+  
   <br/>
+
+  <!-- Backend & Databases -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="50" height="50" alt="Render"/>
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="50" height="50" alt="Vercel"/>
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="50" height="50" alt="Netlify"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter Notebook"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" alt="Bootstrap"/>
+
+  <br/>
+
+
+
   <!-- Tools & Platforms -->
   <img src="https://skillicons.dev/icons?i=git,github,figma,mysql,postgres" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" alt="Tailwind CSS"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-Learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50" alt="Android Studio"/>
 </p>
-
-
- 
-<!-- FRAMEWORKS -->
-<h3>⚛️ Frameworks & Libraries</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" alt="Express"/>
-</p>
-
-
-<!-- AI ML -->
-<h3>🤖 AI / ML Tools</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60" alt="Scikit-Learn"/>
-</p>
-
-
 
 <!-- CONCEPTS -->
 <h3>📘 Concepts</h3>
