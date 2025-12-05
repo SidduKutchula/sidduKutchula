@@ -147,31 +147,66 @@
 
 <h2 align="center">🔥 Coding Platforms – Heatmaps & Stats</h2>
 
-<p align="center">
-  <!-- 1) LeetCode (real heatmap) -->
-  <a href="https://leetcode.com/siddu_kutchula/" target="_blank" rel="noopener noreferrer">
-    <img src="https://leetcard.jacoblin.cool/siddu_kutchula?theme=radical&font=Roboto&ext=heatmap"
-         alt="LeetCode Heatmap" width="360" style="border-radius:10px; margin:6px;" />
-  </a>
+<table align="center">
+  <tr>
+    <th>LeetCode</th>
+    <th>GeeksforGeeks</th>
+    <th>CodeChef</th>
+    <th>GitHub</th>
+  </tr>
 
-  <!-- 2) GitHub contributions heatmap -->
-  <a href="https://github.com/SidduKutchula" target="_blank" rel="noopener noreferrer">
-    <img src="https://ghchart.rshah.org/SidduKutchula" 
-         alt="GitHub Contributions" width="360" style="border-radius:10px; margin:6px;" />
-  </a>
+  <tr>
+    <!-- LeetCode -->
+    <td align="center">
+      <a href="https://leetcode.com/siddu_kutchula/">
+        <img 
+          src="https://leetcard.jacoblin.cool/siddu_kutchula?theme=radical&ext=heatmap"
+          alt="LeetCode Heatmap"
+          width="250"
+          height="250"
+          style="border-radius:12px;"
+        />
+      </a>
+    </td>
+    <!-- GFG -->
+    <td align="center">
+      <a href="https://www.geeksforgeeks.org/user/siddukuczdcb/">
+        <img 
+          src="https://img.shields.io/badge/GFG-Profile-2ecc71?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
+          alt="GFG Profile"
+          width="250"
+          height="250"
+          style="border-radius:12px; padding-top:80px;"
+        />
+      </a>
+    </td>
+    <!-- CodeChef -->
+    <td align="center">
+      <a href="https://www.codechef.com/users/siddu_kutchula">
+        <img 
+          src="https://img.shields.io/endpoint?style=for-the-badge&url=https://cp-rating-api.vercel.app/badge/codechef/siddu_kutchula"
+          alt="CodeChef Rating"
+          width="250"
+          height="250"
+          style="border-radius:12px; padding-top:80px;"
+        />
+      </a>
+    </td>
+    <!-- GitHub -->
+    <td align="center">
+      <a href="https://github.com/SidduKutchula">
+        <img 
+          src="https://ghchart.rshah.org/SidduKutchula"
+          alt="GitHub Heatmap"
+          width="250"
+          height="250"
+          style="border-radius:12px;"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <!-- 3) GeeksforGeeks (stable badge because the card service is unreliable) -->
-  <a href="https://www.geeksforgeeks.org/user/siddukuczdcb/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GFG-Visit%20Profile-green?style=for-the-badge&logo=GeeksforGeeks"
-         alt="GFG Profile" style="border-radius:8px; margin:6px; vertical-align: middle;" />
-  </a>
-
-  <!-- 4) CodeChef Rating (stable badge) -->
-  <a href="https://www.codechef.com/users/siddu_kutchula" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https://cp-rating-api.vercel.app/badge/codechef/siddu_kutchula"
-         alt="CodeChef Rating" style="border-radius:8px; margin:6px; vertical-align: middle;" />
-  </a>
-</p>
 
 ## 👀 Visitor Count:
 ![Visitor Count](https://komarev.com/ghpvc/?username=sidduKutchula&color=blue&style=for-the-badge&label=Profile+Views)
