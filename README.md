@@ -108,39 +108,95 @@
 
 
  
-<h2 align="center">👨‍💻 Coding Platforms – Heatmaps & Stats</h2>
+<!-- FRAMEWORKS -->
+<h3>⚛️ Frameworks & Libraries</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" alt="Express"/>
+</p>
+
+
+
+<!-- DATABASES -->
+<h3>🗄️ Databases</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL"/>
+</p>
+
+
+
+<!-- AI ML -->
+<h3>🤖 AI / ML Tools</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60" alt="Scikit-Learn"/>
+</p>
+
+
+
+<!-- CONCEPTS -->
+<h3>📘 Concepts</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/RESTful%20APIs-4CAF50?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Modular%20Architecture-9C27B0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DSA-FF9800?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SDLC-03A9F4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agile%20Development-795548?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+</p>
+
+
+<!-- SOFT SKILLS -->
+<h3>🧠 Soft Skills</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Communication-2196F3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Adaptability-4CAF50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Leadership-FF9800?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Teamwork-9C27B0?style=for-the-badge" />
+</p>
+
+
+<!-- =============================== -->
+<!-- CODING PLATFORMS -->
+<!-- =============================== -->
+
+<h2>👨‍💻 Coding Platforms – Heatmaps & Stats</h2>
 
 <p align="center">
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/siddu_kutchula/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-  </a>
 
-  <!-- GeeksforGeeks -->
-  <a href="https://auth.geeksforgeeks.org/user/siddukuczdcb/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
+<a href="https://leetcode.com/siddu_kutchula/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
 
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/siddukuchula62" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-  </a>
+<a href="https://auth.geeksforgeeks.org/user/siddukuczdcb/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />
+</a>
 
-  <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/siddu_kutchula" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/>
-  </a>
+<a href="https://www.hackerrank.com/siddukuchula62" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
 
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/SidduKutchula" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
+<a href="https://www.codechef.com/users/siddu_kutchula" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
+</a>
 
-  <!-- Kaggle -->
-  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
+<a href="https://codeforces.com/profile/SidduKutchula" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" />
+</a>
+
+<a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+</a>
+
 </p>
+
+
 <!-- =============================== -->
 <!--  Row-wise Heatmaps & Stats (Paste into README.md) -->
 <!-- =============================== -->
