@@ -303,11 +303,7 @@
 
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sidduKutchula&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</p>
-
-
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sidduKutchula&theme=radical&no-frame=true&no-bg=false&margin-w=15&row=1&column=7" /> </p>
 
 ## 📈 Activity Graph
 
