@@ -141,19 +141,36 @@
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
   </a>
 </p>
+<!-- =============================== -->
+<!--  Row-wise Heatmaps & Stats (Paste into README.md) -->
+<!-- =============================== -->
+
+<h2 align="center">🔥 Coding Platforms – Heatmaps & Stats</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/siddu_kutchula?theme=radical&font=Roboto&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/user/siddukuczdcb/">
-    <img src="https://gfgstatscard.vercel.app/siddukuczdcb?theme=radical" alt="GFG Stats"/>
+  <!-- 1) LeetCode (real heatmap) -->
+  <a href="https://leetcode.com/siddu_kutchula/" target="_blank" rel="noopener noreferrer">
+    <img src="https://leetcard.jacoblin.cool/siddu_kutchula?theme=radical&font=Roboto&ext=heatmap"
+         alt="LeetCode Heatmap" width="360" style="border-radius:10px; margin:6px;" />
   </a>
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodechef%2Fsiddu_kutchula&cacheSeconds=86400" alt="CodeChef Rating"/>
+  <!-- 2) GitHub contributions heatmap -->
+  <a href="https://github.com/SidduKutchula" target="_blank" rel="noopener noreferrer">
+    <img src="https://ghchart.rshah.org/SidduKutchula" 
+         alt="GitHub Contributions" width="360" style="border-radius:10px; margin:6px;" />
+  </a>
+
+  <!-- 3) GeeksforGeeks (stable badge because the card service is unreliable) -->
+  <a href="https://www.geeksforgeeks.org/user/siddukuczdcb/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GFG-Visit%20Profile-green?style=for-the-badge&logo=GeeksforGeeks"
+         alt="GFG Profile" style="border-radius:8px; margin:6px; vertical-align: middle;" />
+  </a>
+
+  <!-- 4) CodeChef Rating (stable badge) -->
+  <a href="https://www.codechef.com/users/siddu_kutchula" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https://cp-rating-api.vercel.app/badge/codechef/siddu_kutchula"
+         alt="CodeChef Rating" style="border-radius:8px; margin:6px; vertical-align: middle;" />
+  </a>
 </p>
 
 ## 👀 Visitor Count:
@@ -161,18 +178,21 @@
 ## ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 🔥 GitHub Streaks
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SidduKutchula&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidduKutchula&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SidduKutchula&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ## 🌟 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidduKutchula&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SidduKutchula&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-## 🔥 Language Breakdown
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sidduKutchula&theme=tokyonight" alt="Repos per language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidduKutchula&theme=tokyonight" alt="Most commit language" />
