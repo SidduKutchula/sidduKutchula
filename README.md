@@ -162,11 +162,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-
 ## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidduKutchula&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FFDD00&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sidduKutchula&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ## 🌟 Most Used Languages
@@ -174,10 +172,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidduKutchula&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+## 🔥 Language Breakdown
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sidduKutchula&theme=tokyonight" alt="Repos per language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidduKutchula&theme=tokyonight" alt="Most commit language" />
 </p>
+
 
 ## 🏆 GitHub Trophies
 <p align="center">
