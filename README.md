@@ -182,59 +182,125 @@
 
 <h2 align="center">👨‍💻 Coding Platforms – Heatmaps & Stats</h2>
 
-<p align="center" style="margin-top: 20px;">
+<div align="center">
 
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/siddu_kutchula/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png"
-         alt="LeetCode" width="60" height="60" 
-         style="margin: 10px; border-radius: 12px;"/>
-  </a>
+  <!-- Row 1 -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <!-- LeetCode -->
+    <div style="margin: 20px; text-align: center;">
+      <a href="https://leetcode.com/siddu_kutchula/" target="_blank">
+        <img
+          src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png"
+          width="85"
+          height="85"
+          style="
+            border-radius: 50%;
+            padding: 14px;
+            background: linear-gradient(135deg,#6a11cb,#2575fc);
+            box-shadow: 0 0 18px rgba(0,150,255,.7);
+          "
+        />
+      </a>
+      <div style="margin-top: 10px; font-weight: bold; font-size: 15px;">LeetCode</div>
+    </div>
+    <!-- GeeksforGeeks -->
+    <div style="margin: 20px; text-align: center;">
+      <a href="https://auth.geeksforgeeks.org/user/siddukuczdcb/" target="_blank">
+        <img
+          src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"
+          width="85"
+          height="85"
+          style="
+            border-radius: 50%;
+            padding: 14px;
+            background: linear-gradient(135deg,#00c853,#64dd17);
+            box-shadow: 0 0 18px rgba(0,200,120,.7);
+          "
+        />
+      </a>
+      <div style="margin-top: 10px; font-weight: bold; font-size: 15px;">GeeksforGeeks</div>
+    </div>
+    <!-- HackerRank -->
+    <div style="margin: 20px; text-align: center;">
+      <a href="https://www.hackerrank.com/siddukuchula62" target="_blank">
+        <img
+          src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
+          width="85"
+          height="85"
+          style="
+            border-radius: 50%;
+            padding: 14px;
+            background: linear-gradient(135deg,#00c853,#00e5ff);
+            box-shadow: 0 0 18px rgba(0,229,255,.7);
+          "
+        />
+      </a>
+      <div style="margin-top: 10px; font-weight: bold; font-size: 15px;">HackerRank</div>
+    </div>
+  </div>
+  <!-- Row 2 -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <!-- CodeChef -->
+    <div style="margin: 20px; text-align: center;">
+      <a href="https://www.codechef.com/users/siddu_kutchula" target="_blank">
+        <img
+          src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png"
+          width="85"
+          height="85"
+          style="
+            border-radius: 50%;
+            padding: 14px;
+            background: linear-gradient(135deg,#5b4638,#b08968);
+            box-shadow: 0 0 18px rgba(176,137,104,.7);
+          "
+        />
+      </a>
+      <div style="margin-top: 10px; font-weight: bold; font-size: 15px;">CodeChef</div>
+    </div>
+    <!-- Codeforces -->
+    <div style="margin: 20px; text-align: center;">
+      <a href="https://codeforces.com/profile/SidduKutchula" target="_blank">
+        <img
+          src="https://sta.codeforces.com/s/77049/images/codeforces-logo-with-text.png"
+          width="85"
+          height="85"
+          style="
+            border-radius: 50%;
+            padding: 14px;
+            background: linear-gradient(135deg,#1f8acb,#6a11cb);
+            box-shadow: 0 0 18px rgba(31,138,203,.7);
+          "
+        />
+      </a>
+      <div style="margin-top: 10px; font-weight: bold; font-size: 15px;">Codeforces</div>
+    </div>
+    <!-- Kaggle -->
+    <div style="margin: 20px; text-align: center;">
+      <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
+        <img
+          src="https://www.kaggle.com/static/images/site-logo.png"
+          width="85"
+          height="85"
+          style="
+            border-radius: 50%;
+            padding: 14px;
+            background: linear-gradient(135deg,#20beff,#2979ff);
+            box-shadow: 0 0 18px rgba(41,121,255,.7);
+          "
+        />
+      </a>
+      <div style="margin-top: 10px; font-weight: bold; font-size: 15px;">Kaggle</div>
+    </div>
 
-  <!-- GeeksforGeeks -->
-  <a href="https://auth.geeksforgeeks.org/user/siddukuczdcb/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"
-         alt="GFG" width="60" height="60" 
-         style="margin: 10px; border-radius: 12px; background:#ffffff; padding:8px;"/>
-  </a>
+  </div>
 
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/siddukuchula62" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
-         alt="HackerRank" width="60" height="60"
-         style="margin: 10px; border-radius: 12px; background:#ffffff; padding:8px;"/>
-  </a>
-
-  <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/siddu_kutchula" target="_blank">
-    <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png"
-         alt="CodeChef" width="60" height="60"
-         style="margin: 10px; border-radius: 12px; background:#ffffff; padding:8px;"/>
-  </a>
-
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/SidduKutchula" target="_blank">
-    <img src="https://sta.codeforces.com/s/77049/images/codeforces-logo-with-text.png"
-         alt="Codeforces" width="60" height="60"
-         style="margin: 10px; border-radius: 12px; background:#ffffff; padding:8px;"/>
-  </a>
-
-  <!-- Kaggle -->
-  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
-    <img src="https://www.kaggle.com/static/images/site-logo.png"
-         alt="Kaggle" width="60" height="60"
-         style="margin: 10px; border-radius: 12px; background:#ffffff; padding:8px;"/>
-  </a>
-
-</p>
-
+</div>
 
 <!-- =============================== -->
 <!--  Row-wise Heatmaps & Stats (Paste into README.md) -->
 <!-- =============================== -->
 
 <table align="center">
-  <tr>
     <th>LeetCode</th>
     <th>GeeksforGeeks</th>
     <th>CodeChef</th>
