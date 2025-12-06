@@ -180,33 +180,51 @@
 <!-- CODING PLATFORMS -->
 <!-- =============================== -->
 
-<h2>👨‍💻 Coding Platforms – Heatmaps & Stats</h2>
+<h2 align="center">👨‍💻 Coding Platforms – Heatmaps & Stats</h2>
 
-<p align="center">
+<p align="center" style="margin-top: 20px;">
 
-<a href="https://leetcode.com/siddu_kutchula/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-</a>
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/siddu_kutchula/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png"
+         alt="LeetCode" width="60" height="60" 
+         style="margin: 10px; border-radius: 12px;"/>
+  </a>
 
-<a href="https://auth.geeksforgeeks.org/user/siddukuczdcb/" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />
-</a>
+  <!-- GeeksforGeeks -->
+  <a href="https://auth.geeksforgeeks.org/user/siddukuczdcb/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"
+         alt="GFG" width="60" height="60" 
+         style="margin: 10px; border-radius: 12px; background:#ffffff; padding:8px;"/>
+  </a>
 
-<a href="https://www.hackerrank.com/siddukuchula62" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white" />
-</a>
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/siddukuchula62" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
+         alt="HackerRank" width="60" height="60"
+         style="margin: 10px; border-radius: 12px; background:#ffffff; padding:8px;"/>
+  </a>
 
-<a href="https://www.codechef.com/users/siddu_kutchula" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
-</a>
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/siddu_kutchula" target="_blank">
+    <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png"
+         alt="CodeChef" width="60" height="60"
+         style="margin: 10px; border-radius: 12px; background:#ffffff; padding:8px;"/>
+  </a>
 
-<a href="https://codeforces.com/profile/SidduKutchula" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" />
-</a>
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/SidduKutchula" target="_blank">
+    <img src="https://sta.codeforces.com/s/77049/images/codeforces-logo-with-text.png"
+         alt="Codeforces" width="60" height="60"
+         style="margin: 10px; border-radius: 12px; background:#ffffff; padding:8px;"/>
+  </a>
 
-<a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
-</a>
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
+    <img src="https://www.kaggle.com/static/images/site-logo.png"
+         alt="Kaggle" width="60" height="60"
+         style="margin: 10px; border-radius: 12px; background:#ffffff; padding:8px;"/>
+  </a>
 
 </p>
 
