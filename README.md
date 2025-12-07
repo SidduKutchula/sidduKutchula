@@ -257,40 +257,6 @@
       </a>
       <div style="margin-top: 10px; font-weight: bold; font-size: 15px;">CodeChef</div>
     </div>
-    <!-- Codeforces -->
-    <div style="margin: 20px; text-align: center;">
-      <a href="https://codeforces.com/profile/SidduKutchula" target="_blank">
-        <img
-          src="https://sta.codeforces.com/s/77049/images/codeforces-logo-with-text.png"
-          width="85"
-          height="85"
-          style="
-            border-radius: 50%;
-            padding: 14px;
-            background: linear-gradient(135deg,#1f8acb,#6a11cb);
-            box-shadow: 0 0 18px rgba(31,138,203,.7);
-          "
-        />
-      </a>
-      <div style="margin-top: 10px; font-weight: bold; font-size: 15px;">Codeforces</div>
-    </div>
-    <!-- Kaggle -->
-    <div style="margin: 20px; text-align: center;">
-      <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
-        <img
-          src="https://www.kaggle.com/static/images/site-logo.png"
-          width="85"
-          height="85"
-          style="
-            border-radius: 50%;
-            padding: 14px;
-            background: linear-gradient(135deg,#20beff,#2979ff);
-            box-shadow: 0 0 18px rgba(41,121,255,.7);
-          "
-        />
-      </a>
-      <div style="margin-top: 10px; font-weight: bold; font-size: 15px;">Kaggle</div>
-    </div>
 
   </div>
 
