@@ -3,10 +3,14 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/81398968/160081486-30f768cc-58bb-464a-98d6-3794bd6f4b8a.gif" width="100%" />
 </p>
-<!-- Typing Intro --> 
+<!-- Typing Intro (Hacker Theme) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Siddu+Kutchula;Full+Stack+Web+Developer+%7C+DSA+Practitioner;React+·+Node+·+Postgres+·+Java;Open+Source+Contributor+%7C+Tech+Learner;Available+for+SDE+Roles+%7C+Let's+Connect!" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Siddu+Kutchula;Full+Stack+Web+Developer+%7C+DSA+Practitioner;React+·+Node+·+Postgres+·+Java;Open+Source+Contributor+%7C+Tech+Learner;Available+for+SDE+Roles+%7C+Let's+Connect!" 
+    alt="Typing SVG" 
+  />
 </p>
+
 
 
 ## 📌 About Me
