@@ -9,7 +9,6 @@
 </p>
 
 
-
 ## 📌 About Me
 
 🚀 **Full-Stack Developer** skilled in **React, Node.js, Mango DB, and SQL**, focused on building scalable and user-centric applications.
@@ -20,6 +19,9 @@
 
 🌐 Open to **full-time, internship, and freelance opportunities** in **full-stack** and **backend engineering**.
 
+<p align = "center">
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+</p>
 
 
 <p align="center">
