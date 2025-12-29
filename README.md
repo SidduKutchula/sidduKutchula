@@ -12,7 +12,6 @@
 </p>
 
 
-
 ## 📌 About Me
 
 🚀 **Full-Stack Developer** skilled in **React, Node.js, Mango DB, and SQL**, focused on building scalable and user-centric applications.
