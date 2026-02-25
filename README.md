@@ -25,7 +25,6 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 </p>
 
-
 <p align="center">
   <!-- Portfolio -->
   <a href="https://portfolio-siddu-kutchula-chi.vercel.app/" title="View My Portfolio">
