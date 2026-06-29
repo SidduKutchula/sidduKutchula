@@ -1,4 +1,3 @@
-
 <!-- Header Animation -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/81398968/160081486-30f768cc-58bb-464a-98d6-3794bd6f4b8a.gif" width="100%" />
@@ -6,14 +5,14 @@
 <!-- Typing Intro (Hacker Theme) -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=0041FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Siddu+Kutchula;Full+Stack+Web+Developer+%7C+DSA+Practitioner;React+·+Node+·+Postgres+·+Java;Open+Source+Contributor+%7C+Tech+Learner;Available+for+SDE+Roles+%7C+Let's+Connect!" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Siddu+Kutchula;Full+Stack+Web+Developer+%7C+DSA+Practitioner;React+·+Node+·+Postgres+·+Java;Open+Source+Contributor+%7C+Tech+Learner;Available+for+SDE+Roles+%7C+Let's+Connect!" 
     alt="Typing SVG" 
   />
 </p>
 
 ## 📌 About Me
 
-🚀 **Full-Stack Developer** skilled in **React, Node.js, Mango DB, and SQL**, focused on building scalable and user-centric applications.
+🚀 **Full-Stack Developer** skilled in **React, Node.js, MongoDB, and SQL**, focused on building scalable and user-centric applications.
 
 🧠 Solved **500+ DSA problems** **across LeetCode, GFG, CodeChef**, and **HackerRank** with strong algorithmic foundations.
 
@@ -50,7 +49,7 @@
 </p>
 
 <h1 style="color: #FF9800;">🔧 Skills</h1>
- <h3>💻 Frontend</h3>
+<h3>💻 Frontend</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3"/>
@@ -58,9 +57,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" alt="Tailwind CSS"/>
-
-</p>
-
 </p>
 
 <h3>⚙️ Backend</h3>
@@ -69,7 +65,6 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/>
-  
 </p>
 
 <!-- FRAMEWORKS -->
@@ -80,7 +75,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" alt="Express"/>
 </p>
-
 
 <!-- AI ML -->
 <h3>🤖 AI / ML Tools</h3>
@@ -103,7 +97,6 @@
 </p>
 
 <h3>🛠️ Tools & IDE</h3>
-  <!-- Tools -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
@@ -117,18 +110,16 @@
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="50" height="50" alt="Netlify"/>
 </p>
 
-
 ## 🚀 Tech Stacks  
 <p align="center">
 
   <!-- Core Languages -->
- 
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" height="50"/>
 
   <!-- Tools -->
-   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman"/>
-  
+
   <br/>
 
   <!-- Backend & Databases -->
@@ -142,16 +133,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter Notebook"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" alt="Bootstrap"/>
 
   <br/>
-
-
 
   <!-- Tools & Platforms -->
   <img src="https://skillicons.dev/icons?i=git,github,figma,mysql,postgres" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" alt="Tailwind CSS"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-Learn"/>
@@ -168,7 +157,6 @@
 <img src="https://img.shields.io/badge/Agile%20Development-795548?style=for-the-badge&logo=scrumalliance&logoColor=white" />
 </p>
 
-
 <!-- SOFT SKILLS -->
 <h3>🧠 Soft Skills</h3>
 <p align="center">
@@ -178,19 +166,15 @@
 <img src="https://img.shields.io/badge/Teamwork-9C27B0?style=for-the-badge" />
 </p>
 
-
 <!-- =============================== -->
 <!-- CODING PLATFORMS -->
 <!-- =============================== -->
 
 <h2 align="center">👨‍💻 Coding Platforms – Heatmaps & Stats</h2>
 
-<div align="center">
-
-  <!-- Row 1 -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <!-- LeetCode -->
-    <div style="margin: 20px; text-align: center;">
+<table align="center">
+  <tr>
+    <td align="center">
       <a href="https://leetcode.com/siddu_kutchula/" target="_blank">
         <img
           src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png"
@@ -204,10 +188,10 @@
           "
         />
       </a>
-      <div style="margin-top: 10px; font-weight: bold; font-size: 15px;">LeetCode</div>
-    </div>
-    <!-- GeeksforGeeks -->
-    <div style="margin: 20px; text-align: center;">
+      <br/>
+      <b>LeetCode</b>
+    </td>
+    <td align="center">
       <a href="https://auth.geeksforgeeks.org/user/siddukuczdcb/" target="_blank">
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"
@@ -221,10 +205,10 @@
           "
         />
       </a>
-      <div style="margin-top: 10px; font-weight: bold; font-size: 15px;">GeeksforGeeks</div>
-    </div>
-    <!-- HackerRank -->
-    <div style="margin: 20px; text-align: center;">
+      <br/>
+      <b>GeeksforGeeks</b>
+    </td>
+    <td align="center">
       <a href="https://www.hackerrank.com/siddukuchula62" target="_blank">
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
@@ -238,13 +222,10 @@
           "
         />
       </a>
-      <div style="margin-top: 10px; font-weight: bold; font-size: 15px;">HackerRank</div>
-    </div>
-  </div>
-  <!-- Row 2 -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <!-- CodeChef -->
-    <div style="margin: 20px; text-align: center;">
+      <br/>
+      <b>HackerRank</b>
+    </td>
+    <td align="center">
       <a href="https://www.codechef.com/users/siddu_kutchula" target="_blank">
         <img
           src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png"
@@ -258,79 +239,19 @@
           "
         />
       </a>
-      <div style="margin-top: 10px; font-weight: bold; font-size: 15px;">CodeChef</div>
-    </div>
-
-  </div>
-
-</div>
-
-<!-- =============================== -->
-<!--  Row-wise Heatmaps & Stats (Paste into README.md) -->
-<!-- =============================== -->
-
-<table align="center">
-    <th>LeetCode</th>
-    <th>GeeksforGeeks</th>
-    <th>CodeChef</th>
-    <th>GitHub</th>
+      <br/>
+      <b>CodeChef</b>
+    </td>
   </tr>
-
-  <tr>
-    <!-- LeetCode -->
-    <td align="center">
-      <a href="https://leetcode.com/siddu_kutchula/">
-        <img 
-          src="https://leetcard.jacoblin.cool/siddu_kutchula?theme=radical&ext=heatmap"
-          alt="LeetCode Heatmap"
-          width="250"
-          height="250"
-          style="border-radius:12px;"
-        />
-      </a>
-    </td>
-    <!-- GFG -->
-    <td align="center">
-      <a href="https://www.geeksforgeeks.org/user/siddukuczdcb/">
-        <img 
-          src="https://img.shields.io/badge/GFG-Profile-2ecc71?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
-          alt="GFG Profile"
-          width="250"
-          height="250"
-          style="border-radius:12px; padding-top:80px;"
-        />
-      </a>
-    </td>
-    <!-- CodeChef -->
-    <td align="center">
-      <a href="https://www.codechef.com/users/siddu_kutchula">
-        <img 
-          src="https://img.shields.io/endpoint?style=for-the-badge&url=https://cp-rating-api.vercel.app/badge/codechef/siddu_kutchula"
-          alt="CodeChef Rating"
-          width="250"
-          height="250"
-          style="border-radius:12px; padding-top:80px;"
-        />
-      </a>
-    </td>
-    <!-- GitHub -->
-    <td align="center">
-      <a href="https://github.com/SidduKutchula">
-        <img 
-          src="https://ghchart.rshah.org/SidduKutchula"
-          alt="GitHub Heatmap"
-          width="250"
-          height="250"
-          style="border-radius:12px;"
-        />
+</table>
       </a>
     </td>
   </tr>
 </table>
 
-
 ## 👀 Visitor Count:
-![Visitor Count](https://komarev.com/ghpvc/?username=sidduKutchula&color=blue&style=for-the-badge&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=SidduKutchula&color=blue&style=for-the-badge&label=Profile+Views)
+
 ## ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -340,52 +261,40 @@
   <img src="https://streak-stats.demolab.com?user=SidduKutchula&theme=tokyonight&hide_border=true" />
 </p>
 
-
-
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SidduKutchula&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
 
 ## 🌟 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SidduKutchula&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sidduKutchula&theme=tokyonight" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidduKutchula&theme=tokyonight" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SidduKutchula&theme=tokyonight" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SidduKutchula&theme=tokyonight" alt="Most commit language" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SidduKutchula&theme=radical&no-frame=true&margin-w=15&row=1&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=SidduKutchula&theme=radical&no-frame=true&margin-w=15&row=1&column=7" />
 </p>
-
 
 ## 📈 Activity Graph
 
 <p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidduKutchula&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=FF6EC7&point=79C0FF&area=true" height="300px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SidduKutchula&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=FF6EC7&point=79C0FF&area=true" height="300px"/>
 </p>
 
-<div >
+<div>
 
 ## **🐍 Contribution Graph**
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-<!-- ![Snake animation](https://raw.githubusercontent.com/SidduKutchula/snake-animation/output/github-contribution-grid-snake.svg) -->
-
+<!-- Set up the snk GitHub Action on your own repo (https://github.com/Platane/snk) to generate this file, then this will show YOUR contribution snake instead of the demo. -->
+![Snake animation](https://raw.githubusercontent.com/SidduKutchula/snake-animation/output/github-contribution-grid-snake.svg)
 
 </div>
-
-
-
-
-
 
 <div align="center">
 
@@ -393,5 +302,3 @@
 <h3>⭐ If my projects inspire you, feel free to star the repositories — your support truly matters❤️🎉.</h3>
 
 </div>
-
-
